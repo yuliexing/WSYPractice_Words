@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>words.csv</file>
+        <file>ico.ico</file>
+    </qresource>
+</RCC>
